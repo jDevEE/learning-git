@@ -8,5 +8,9 @@ public final class HelloGitUtil{
 	}
     public static void doNothing(){
         //yet another method that does nothing
+	}
+    public static String doSomething( String string ){
+        return string.toUpperCase();
     }
+
 }
