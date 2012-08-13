@@ -1,4 +1,4 @@
 learning-git
 ============
 
-Repository created in order to learn git.
+Created to play around with GIT repository.
